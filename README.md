@@ -1,3 +1,3 @@
 # hello_world
-My second project
+My first project
 Hello aliens , how're you doin?
